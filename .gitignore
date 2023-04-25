@@ -1,0 +1,9 @@
+# ignore dependency folder
+node_modules/
+
+# system cache
+.DS_Store
+
+# ide cache
+.vscode/
+.idea/
