@@ -7,8 +7,8 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, './dist'),
-        filename: 'elpy.min.js',
-        library: 'Elpy'
+        filename: 'now.min.js',
+        library: 'Now'
     },
     devServer: {
         static: [
